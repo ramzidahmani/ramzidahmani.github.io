@@ -1,0 +1,101 @@
+### Site Settings ###
+title               : Dahmani Salah
+description         : >-
+                      AI & Data Engineer with 2,5 years of experience
+                      <br>Specialized in building and optimizing data platforms, implementing ML solutions, and driving cloud infrastructure modernization.
+baseurl             : ""
+repository          : ramzidahmani/ramzidahmani.github.io
+remote_theme        : YoussefRaafatNasry/portfolYOU
+open_new_tab        : false
+
+
+### Plugins ###
+plugins:
+
+
+### Navbar Settings ###
+nav_exclude:                                            # The following paths are excluded from navbar
+  - pages/tags.html
+  - pages/404.html
+  - pages/index.md
+  - pages/blog.html
+
+
+### Author Info ###
+author:
+  name              : Dahmani Salah
+  image             : ./images/profile.jpg
+# behance           : your_username
+# dribbble          : your_username
+  email             : dahmani.salah@outlook.com
+# facebook          : your_username
+  github            : ramzidahmani
+# gitlab            : your_username
+# instagram         : your_username
+  kaggle            : salaheddinedahmani
+  linkedin          : salah-dahmani
+# medium            : your_username
+# soundcloud        : your_username
+# spotify           : your_username
+# stackoverflow     : your_user_id
+# tumblr            : your_username.tumblr.com
+# twitch            : your_username
+# twitter           : your_username
+# vimeo             : your_username
+# youtube           : your_channel_name
+# keybase           : your_username
+
+
+### Posts ###
+permalink: /blog/:title
+
+
+### Collections ###
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name
+
+
+### Disqus ###
+disqus:
+  shortname: your-short-name-disqus                     # Your website Shortname on disqus
+
+
+### Analytics ###
+analytics:
+  enabled: false                                        # Set true to enable analytics
+  google:
+    tracking_id: your-google-tracking-id
+
+
+### Buy me a coffee ###
+# See https://www.buymeacoffee.com/
+buymeacoffee:
+  enabled: false
+  username: your_username
+  color: "#007bff"
+  message: "Thank you for visiting."                    # Message to be displayed aside from the button for a few seconds.
+  description: "Support me on Buy me a coffee!"
+
+
+### Defaults for collections ###
+defaults:
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      comments: false                                   # Set to true to enable disqus comments
+
+
+### Exclude from processing ###
+exclude:
+  - README.md
+  - CONTRIBUTING.md
+  - LICENSE
+  - "*.log"

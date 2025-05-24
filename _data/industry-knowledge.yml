@@ -1,0 +1,29 @@
+- name: Data Architecture
+  percentage: 90
+  color: success
+  description: Design and implementation of scalable data platforms
+
+- name: Machine Learning
+  percentage: 85
+  color: info
+  description: ML/AI implementation, Image processing, Object detection
+
+- name: DevOps Practices
+  percentage: 90
+  color: danger
+  description: CI/CD, Infrastructure as Code, Monitoring
+
+- name: Data Governance
+  percentage: 85
+  color: warning
+  description: Data quality, Security, Compliance
+
+- name: Project Management
+  percentage: 80
+  color: success
+  description: Technical leadership, Team coordination
+
+- name: Business Analysis
+  percentage: 85
+  color: info
+  description: Requirements gathering, Solution design 

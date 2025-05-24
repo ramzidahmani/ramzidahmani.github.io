@@ -1,0 +1,39 @@
+- name: Languages & Frameworks
+  percentage: 95
+  color: success
+  tools: Python, SQL, Pandas, Dataform, DBT
+
+- name: Cloud & Infrastructure
+  percentage: 90
+  color: info
+  tools: GCP, AWS, Docker, Terraform
+
+- name: Data Engineering
+  percentage: 95
+  color: danger
+  tools: Snowflake, BigQuery, Redshift, PostgreSQL, MongoDB, NoSQL
+
+- name: Data Processing
+  percentage: 90
+  color: warning
+  tools: Airbyte, DLThub, Fivetran, DataStream
+
+- name: Data Transformation
+  percentage: 85
+  color: success
+  tools: DBT, SQL, Pandas, Dataform
+
+- name: Data Orchestration
+  percentage: 90
+  color: info
+  tools: Airflow, Google Workflow
+
+- name: Data Visualization
+  percentage: 85
+  color: danger
+  tools: PowerBI, Looker, Streamlit, Metabase
+
+- name: Version Control
+  percentage: 95
+  color: warning
+  tools: Git, GitHub Actions, GitLab CI/CD 

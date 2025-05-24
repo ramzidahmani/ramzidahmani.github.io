@@ -1,0 +1,37 @@
+- title: Data Engineer at Modeo
+  from: Oct 2023
+  to: Present
+  description: |
+    Tech Lead Data Engineer for Puma project:
+    • Developed marketing performance analysis solution using social media scraping
+    • Implemented serverless data ingestion with Airbyte and Google Workflow
+    • Applied ML/AI algorithms for image analysis and object detection
+    • Optimized performance through GPU utilization
+    • Set up infrastructure as code using Terraform
+
+- title: Data Engineer at Mercateam
+  from: Jul 2023
+  to: Sep 2023
+  description: |
+    • Modernized Data Platform reducing processing time from 1 hour to under 10 seconds
+    • Configured CDC between PostgreSQL and BigQuery using DataStream
+    • Migrated data transformations to DBT
+    • Formalized infrastructure with Terraform
+
+- title: Data Engineer at Carac
+  from: Apr 2023
+  to: Jun 2023
+  description: |
+    • Developed POC for data platform migration to Snowflake
+    • Implemented data extraction using DLTHub
+    • Set up RBAC user management
+    • Created reporting dashboards with Streamlit
+
+- title: Data Scientist at Crédit Agricole
+  from: Mar 2023
+  to: Sep 2023
+  description: |
+    • Led SMART Conso project for marketing campaign enhancement
+    • Developed multimodal predictive models
+    • Implemented data collection pipelines
+    • Tech stack: Python, TensorFlow, SQL, GitLab CI/CD
