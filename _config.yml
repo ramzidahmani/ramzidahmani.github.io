@@ -4,6 +4,7 @@ description         : >-
                       AI & Data Engineer with 2,5 years of experience
                       <br>Specialized in building and optimizing data platforms, implementing ML solutions, and driving cloud infrastructure modernization.
 baseurl             : ""
+url                 : "https://ramzidahmani.github.io"  # the base hostname & protocol for your site
 repository          : ramzidahmani/ramzidahmani.github.io
 remote_theme        : YoussefRaafatNasry/portfolYOU
 open_new_tab        : false
