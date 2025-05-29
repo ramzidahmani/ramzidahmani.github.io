@@ -2,30 +2,13 @@
   from: Oct 2023
   to: Present
   description: |
-    Tech Lead Data Engineer for Puma project:
-    • Developed marketing performance analysis solution using social media scraping
-    • Implemented serverless data ingestion with Airbyte and Google Workflow
-    • Applied ML/AI algorithms for image analysis and object detection
-    • Optimized performance through GPU utilization
-    • Set up infrastructure as code using Terraform
-
-- title: Data Engineer at Mercateam
-  from: Jul 2023
-  to: Sep 2023
-  description: |
-    • Modernized Data Platform reducing processing time from 1 hour to under 10 seconds
-    • Configured CDC between PostgreSQL and BigQuery using DataStream
-    • Migrated data transformations to DBT
-    • Formalized infrastructure with Terraform
-
-- title: Data Engineer at Carac
-  from: Apr 2023
-  to: Jun 2023
-  description: |
-    • Developed POC for data platform migration to Snowflake
-    • Implemented data extraction using DLTHub
-    • Set up RBAC user management
-    • Created reporting dashboards with Streamlit
+    • Expertise in data platform modernization and optimization, reducing processing times by orders of magnitude
+    • Strong experience in implementing Change Data Capture (CDC) solutions between various databases
+    • Proficient in cloud data warehouses (Snowflake, BigQuery) and data modeling
+    • Advanced knowledge in data pipeline orchestration and workflow automation
+    • Skilled in implementing ML/AI solutions and predictive models
+    • Experience with infrastructure as code (Terraform) and CI/CD practices
+    • Expertise in data visualization and dashboard creation using modern tools
 
 - title: Data Scientist at Crédit Agricole
   from: Mar 2023
